@@ -1,0 +1,7 @@
+md5: d9b273f38a466844ed6841be8e962760
+outs:
+- md5: 0a282a42255c2df4f6600291d80cbf69.dir
+  path: 1gAFV7pu
+  cache: true
+  metric: false
+  persist: false

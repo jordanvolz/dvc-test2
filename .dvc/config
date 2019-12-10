@@ -1,0 +1,4 @@
+['remote "BASKETBALLv2"']
+url = s3://jvolz-dataiku/BASKETBALLv2/
+[core]
+remote = BASKETBALLv2
